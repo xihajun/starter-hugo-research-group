@@ -12,4 +12,4 @@ design:
 ---
 <br>
 
-The **Happy Joy Group** has been a new group founded by Junfan Huang and @xihajun for machine learning, computer vision research in 2021.
+The **Happy Joy Group** has been a new group founded by Junfan Huang and Zhiyun Gong for machine learning, computer vision research in 2021.
